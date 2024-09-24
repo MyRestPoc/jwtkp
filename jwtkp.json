@@ -1,1 +1,18 @@
-This works
+{
+    "keys": [
+        {
+            "p": "4zrg9RXu4dKwMz802EuYKon5QzozBsENEIN0kD5Y21Hj5MZDaDGpGp47LdgPgz1ZZiULiHYAuSzFhMm79jIXYDVRLx0hY4FqK9kZjq67YkVMl8rUFvarTQYKckxoGluI4T3WQQidw5F3IzCLltzTVVAAcJXi_EQs4boBD5eyvts",
+            "kty": "RSA",
+            "q": "rgYz4HxNKf0NGb0dZr1lHdL-TMY4AJiLCEGC-F2FEV61YI2AnRvqN3wZRPjMO06BrIIK8ys-MP4tmJGUsG9melsrcOfnad_Drjy8ZkY9_Qsv0b3f6Uxk2x8wmchEdIaIwPM9IAR1Tt5amRC36Uai7ozGCifLfaHohZ1JBrmfnqc",
+            "d": "ilEvUtJDcA8Y8luvthVJCQ3Vbx76Hui7kbQ-zS5xdXWqHrbddpmKtTJZQAQ_-C0uucYnwWkAMc3zPU0ZWlTlW-Z7Y17ds2zKZcUIoGRiJ8txLRAabbi5PzWGbXaNrhP24tlQft2JC8ep8XfER2oWuqfCP0ITuCUqk9M92KCI36J64xKnBXkh5qSb-ZmyM3nIILJ4DH23ceBe9lZEQDsNQ0nshH6DpK9IvyPVosJA178xbuQ-nhNMobr3aWqqq0O9kiNZv1edxbV6M45_tUDWc2lI2SYXWViuIB1Qm8lohYHXpM8u1QRcMdrGl6dVYzSad5Fx6xqotpgkRcVKfxC67Q",
+            "e": "AQAB",
+            "use": "sig",
+            "kid": "WKYbQ4PvBXyfItV3L3QszcqqXSg_q6OnSwmZszNC4Sc",
+            "qi": "s0Zm_JIwi7Gg0hMWbItQK3naWA4GsUnJ4eHhGSP1DQtyCfzBR5QlpHPSL6M17cy849Y4WhGdDotDpCqU_vbK4x20obuH4l-1JzhLrkWPs5gqX9gCdzh-IzyIhkOXAW0QqyfRvg_ze-cmtlHtacKiD7Sv0zq5Sos2zm1qGSXE-gg",
+            "dp": "MyQnSUHcd9rRaVdKb3vkDX7sKONKZLTCWfscGvLNUN9HaU_uD99Nbf4614CPTTxbiI_B3r6gPw0Cj3ZP5YM0m6SkVvQ5dYnE-YVtKR3OcrmiGW---EQgHb_ETiFANN5xGjCurghgaYmtxK_CWvvsXIEa-Dvj0F8PsuYIIxhDVI0",
+            "alg": "RS256",
+            "dq": "IH5d_2OWUOnEIXMzYzSoBcqY2yMD3_CbvT3mQ5PKvfSOL2ocgrlsoVGVslA2ajh9dAWQH9mKMkGzp9I_DjauztfpI5rZleZHNmh20S36cx48npAyl_BAwL1xKLXBOnTIYibI2gqbEM_p4LzDalZbI-m7LLhDgcDSluhIc24DhO8",
+            "n": "mneGU9dRjdmx5T6crKVKmchbYpN59txDEUc1JKBwP-UOiEpZ8p71TXTuxCkXsYBmEpiJtNLqB97Dl6Nxsz4WPgogR7nBLz2_SKR32Ln7yW0b6ph1j__SLarqqOKkfJOE0lmFC7Z8kOr1pQBwghfjcGeiVDgufnvN8WB6nTxFdzGV0LGymXRtAH-x7fauZnxkqc6FaOyNlGfOQZJn1lcSR_G5SXdts6pZ3XzH9hcDRh_-Qmnz8DqNGUs2Hl68r6l9JnCKhEU4YhrhRkOw5UotguvjDAiQ3DJMS3EU2o45Z2qbbbyZTa9Z8-0dbSts4sPa_EHoYV6g2cFUOaDfFGqq3Q"
+        }
+    ]
+}
