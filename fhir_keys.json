@@ -1,0 +1,37 @@
+{
+    "jwks": {
+        "keys": [
+            {
+                "kty": "RSA",
+                "alg": "RS384",
+                "n": "rRytL1V-ShPOkzhiTs6DuDiXTDez9ZRUAPKmn2BPhKOdSNs3kXhG9uD-KVYyeI-vbO4IsKJPtUN1Jczn2yoRa_L5j2p3YJNJNEe1s2jE0fHfpEJeubIUhAUQwC_8osr7YxkM4ntCp6qJDcPrHr-1rTQNihXHfWYlC4xA3QQXLtZZH5LE1Ylt-uG2MONuLhUzwgtprM3VvQ2CbKVxHr3OwXAeaMnJ3IlcVBo00rlrtcn-hI3L0w2wXQA-e-YC-5QOi5n9g4w8goqXl0sAGO1IUNbpq3i4rdLGRvdGzV1_IB2IGn4_sncnbZRTSsDU5KdhIqS7AfHs1DyK5MBrXL3HHQ",
+                "e": "AQAB",
+                "key_ops": [
+                    "verify"
+                ],
+                "ext": true,
+                "kid": "0d3520fa3b1aea513c9591601be73548"
+            },
+            {
+                "kty": "RSA",
+                "alg": "RS384",
+                "n": "rRytL1V-ShPOkzhiTs6DuDiXTDez9ZRUAPKmn2BPhKOdSNs3kXhG9uD-KVYyeI-vbO4IsKJPtUN1Jczn2yoRa_L5j2p3YJNJNEe1s2jE0fHfpEJeubIUhAUQwC_8osr7YxkM4ntCp6qJDcPrHr-1rTQNihXHfWYlC4xA3QQXLtZZH5LE1Ylt-uG2MONuLhUzwgtprM3VvQ2CbKVxHr3OwXAeaMnJ3IlcVBo00rlrtcn-hI3L0w2wXQA-e-YC-5QOi5n9g4w8goqXl0sAGO1IUNbpq3i4rdLGRvdGzV1_IB2IGn4_sncnbZRTSsDU5KdhIqS7AfHs1DyK5MBrXL3HHQ",
+                "e": "AQAB",
+                "d": "qIuDEtLqYrVmK3B6RsBK_tIafNq_HBuOrl2SXRooUbv7JzRIphm0_imRTC3gdgFvi182lsNxV8qWBHe8RmZvD-tBj6DZGe5NF9m5zzPybXZRiFwWXjZEQ0WrSXNvRhDbMWDyapAYFaa0SfK2uPluqXREumz6Dd2ls9iaTpXs_GubwgjrNwhYXtc4E8Wxmmyt6TOZYVHiBD8kZDy8WMKVfNPkgO-aGXRReeNsr4SOOvmO5XBLAZqKwZJCjQ1W_DPnJJkpMni3U-oL6gRgcfKNJwFVkljNGSzIUVDO68TjZqbZzLZPagVVpnbPDj-1B8Cof_jqy_CyGA2AEEzsTeNJ",
+                "p": "2JdveptTnszClvIibb9Tsc2MAAj0axAr2UknQR8jsgscLOkkFeGZ7SQmd-e2G8ROqz_6YeOFBUa48fRlDmNTMRAau7We83wM6EQQNlDYuPonDNKCxIhcOkDwgQnlTh-XJs38D28l4Ve6wrBp9tsaXFOhCBF0SmgVJmmT6HNCqkk",
+                "q": "zJwEzzwOt-ni8iNJ1rT9TTq35ErVS4Rvfdv6VWaSOTdRPe6_h0QOlotoKCwI-GLxZma6wxdwe3jDC7KTz9aa2YhVmttmUCoMUks0U7S_DxuSWQudf6D-gDhArFtl5l0tiSXtqZXqDa1LWyyjoOVjOnibBZmXk36kmYNWoqTcVjU",
+                "dp": "e2QKhnbm9JkCYqwfIRbWv3yyPXLcjAHyeR9L1bW_yDa8HnnTrQORhaAKqlS_UqJLjxQruIi9x3u68VyiFchQJKtgD4AwxdXuJIRiGA-G6BrbFFr5VK26nRVR7rGMiS1GFz1SVBimI_Ku2ytVsuSv59lc7BPFhH43TmLneI3xdME",
+                "dq": "QqVzP5ldZfSOErcB3yjW9SfyLC9f6Jg7xLA5i0W8zVxCXzz8L_AwHENOav9k8Jsx7Fv7634gCmfciFvjn6hUihTJZYaffe8kUk3ivn06Wo5tjgmlhKQJIfSwxDOFLpMdOPYcwsdtFIVk7U7OAaOWPb55KErOP6HZtZM9Tf8LMh0",
+                "qi": "qk2M_6NZqkLXM0_rI33IyVOgOvkvIIEm0f8g2tG5xeY6trlJj7yJw28MOqn31WUw9sUTDgYtCzAbcpfz3SHhhym5BQVeBRIt24JKqxQ4WiPrrtwVQuJ5Wt6GvLZxReWNe0J8B0qqUu50snrZj4T2lKur6RdPoCAb27q3ooFKPWU",
+                "key_ops": [
+                    "sign"
+                ],
+                "ext": true,
+                "kid": "0d3520fa3b1aea513c9591601be73548"
+            }
+        ]
+    },
+    "client_id": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJlZ2lzdHJhdGlvbi10b2tlbiJ9.eyJqd2tzX3VybCI6Imh0dHBzOi8vbWFpbi0tZW5kZWFyaW5nLWhhbHZhLWQ1M2UwZS5uZXRsaWZ5LmFwcC9qd3RrcC5qc29uIiwiYWNjZXNzVG9rZW5zRXhwaXJlSW4iOjE1LCJlcnIiOiJ0b2tlbl9pbnZhbGlkX3Rva2VuIiwiaWF0IjoxNzI5MDg5NDk2fQ.v5YtIJUcWj4KxqglRB1KkwxyrEFYwoRlDk1jyQHHJ8U",
+    "fhir_url": "https://bulk-data.smarthealthit.org/eyJlcnIiOiJ0b2tlbl9pbnZhbGlkX3Rva2VuIiwicGFnZSI6MTAwMDAsImR1ciI6MTAsInRsdCI6MTUsIm0iOjEwLCJzdHUiOjQsImRlbCI6MjAsInNlY3VyZSI6MX0/fhir",
+    "token_url": "https://bulk-data.smarthealthit.org/auth/token"
+}
